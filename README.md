@@ -101,5 +101,5 @@ OUTPUT:
 ![Screenshot (280)](https://github.com/user-attachments/assets/65583850-e478-48ac-8fc4-d3c05ba49a87)
 
 
-RESULT!
+RESULT:
 The "Chat with LLM" application successfully enables interactive text-based communication with a large language model, offering a streamlined and visually appealing interface for users.
